@@ -1,0 +1,63 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header Styles */
+#header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.title {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.subtitle {
+    font-size: 1.2em;
+    margin: 10px 0 0;
+}
+
+/* About Section Styles */
+.about {
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.profile-image {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    margin-top: 15px;
+    border: 3px solid #4CAF50;
+}
+
+/* Projects Section Styles */
+.projects {
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Footer Styles */
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
